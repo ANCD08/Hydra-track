@@ -221,19 +221,6 @@ HydraTrack/
 ├── build.gradle
 └── README.md
 ```
-
----
- ✅ Requirements Checklist
-
-| # | Academic Requirement | Status |
-|---|---|---|
-| 1 | Built with Kotlin | ✅ Kotlin + Jetpack Compose |
-| 2 | Solves a real problem | ✅ Daily hydration tracking |
-| 3 | Installable by users | ✅ Distributed as `.apk` |
-| 4 | Provides data about users | ✅ Name, age, weight, intake logs |
-| 5 | Export data to Excel | ✅ Apache POI → `.xlsx` via Admin Dashboard |
-| 6 | Uses a device sensor | ✅ Accelerometer (shake detection) |
-
 ---
 
  👨‍💻 Author
